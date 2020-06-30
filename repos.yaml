@@ -1388,3 +1388,8 @@ repositories:
     maintainers:
       - name: Chris Simmons
         email: chris.simmons.alt@gmail.com
+  - name: bedag
+    url: https://bedag.github.io/helm-charts
+    maintainers:
+      - name: Bedag SRE Team
+        email: sre@bedag.ch
